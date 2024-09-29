@@ -25,7 +25,6 @@
     "@pinia/nuxt": "0.5.1",
     "dotenv": "16.3.1",
     "leaflet.markercluster": "^1.5.3",
-    "nuxt-app": "file:",
     "nuxt-permissions": "0.2.4"
   }
 }
